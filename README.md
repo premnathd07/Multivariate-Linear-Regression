@@ -22,7 +22,8 @@ Create the linear regression model and fit.
 
 ## Program:
 
-![Uploading image.png…]()
+<img width="974" height="275" alt="image" src="https://github.com/user-attachments/assets/b8fc5476-f2fb-4350-8a4d-2f8321321499" />
+
 
 
 ## Output:
